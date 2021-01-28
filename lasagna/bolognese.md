@@ -21,7 +21,7 @@ Ingredients
 * 1 cup dry red wine
 * 2 tbsp olive oil
 * 5x cloves garlic
-* 2x carrots
+* 3x carrots
 * 1x white onion
 * 1/4 cup grated parmesan
 
