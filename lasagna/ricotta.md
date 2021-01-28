@@ -1,6 +1,11 @@
 Ricotta mixture
 ===============
 
+Notes
+-----
+* I think the seasoning here could be improved.
+* Instead of parmesan, pecorino romano might be better since it has a stronger flavor.
+
 Ingredients
 -----------
 * 12 oz ricotta
@@ -10,11 +15,10 @@ Ingredients
 * 1/4 tsp pepper
 * 1/4 cup grated parmesan
 
-Prep/Notes
-----------
+Prep
+----
 * Slightly beat egg
-* Throw in a couple extra lasagna strips just-in-case some get messed up.
-* I think the seasoning here could be improved.
+* Grate parmesan
 
 Directions
 ----------

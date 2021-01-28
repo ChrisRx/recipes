@@ -1,15 +1,8 @@
 Constructing the lasagna
 ========================
 
-Ingredients
------------
-* 9x lasagna noodle strips
-* 4-6 oz sliced pepperonis
-* 2x 8oz shredded low-moisture mozzarella
-* 1/4 cup grated parmesan
-
-Prep/Notes
-----------
+Notes
+-----
 * Throw in a couple extra lasagna strips just-in-case some get messed up.
 * Bring water to a boil THEN add salt.
 * Make sure pasta water is VERY salty.
@@ -19,6 +12,18 @@ Prep/Notes
 * Allowing the lasagna to sit for 30 minutes might sound like a lot, but it will still be very hot and it will stay together much better once you start cutting it if you allow it to rest (it had a long journey, it's tired).
 * Rehydrating the sauce with pasta water adds so much flavor, it's crazy.
 * I've layered noodles/ricotta/mozzarella/sauce before as well, but so far it hasn't made much difference.
+
+Ingredients
+-----------
+* 9x lasagna noodle strips
+* 4-6 oz sliced pepperonis
+* 16oz low-moisture mozzarella
+* 1/4 cup grated parmesan
+
+Prep
+----
+* Shred mozzarella (if not pre-shredded)
+* Grate parmesan
 
 Directions
 ----------
@@ -33,4 +38,3 @@ Directions
 8. Cover baking pan with aluminum foil and bake for 30 minutes.
 9. Remove aluminum foil and bake for 15 minutes more.
 10. Allow the lasagna to sit for 30 minutes.
-
