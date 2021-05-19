@@ -8,10 +8,10 @@ Notes
 
 Ingredients
 -----------
-* 12 oz ricotta
+* 15 oz ricotta
 * 1 large egg
 * 1 tbsp dried parsley flakes
-* 1/2 tsp dried oregano
+* 1/2 tsp dried oregano # TODO: fresh chopped basil instead of oregano? maybe remove altogether
 * 1/4 tsp pepper
 * 1/4 cup grated parmesan
 
