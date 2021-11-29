@@ -3,17 +3,16 @@ Ricotta mixture
 
 Notes
 -----
-* I think the seasoning here could be improved.
-* Instead of parmesan, pecorino romano might be better since it has a stronger flavor.
+* Most ricotta comes in 15oz containers, make sure you only use 12oz.
 
 Ingredients
 -----------
-* 15 oz ricotta
+* 12 oz ricotta
 * 1 large egg
 * 1 tbsp dried parsley flakes
-* 1/2 tsp dried oregano # TODO: fresh chopped basil instead of oregano? maybe remove altogether
+* 1/2 tsp dried oregano
 * 1/4 tsp pepper
-* 1/4 cup grated parmesan
+* 1/3 cup grated parmesan
 
 Prep
 ----
